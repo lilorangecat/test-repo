@@ -1,1 +1,1 @@
-https://example.com
+https://github.com/lilorangecat/test-repo/releases/download/untagged-018043e402e6e1db018a/Taco.Client_5.4.58.apk
